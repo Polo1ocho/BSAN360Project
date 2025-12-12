@@ -1,0 +1,2 @@
+This project analyzes Tyrese Maxey's three point performance using regular season game logs from the 2020–21 through 2024–25 NBA seasons.
+I cleaned the data to focus on games where Maxey attempted at least one three pointer, then compared his 3P percent across seasons, between Eastern and Western Conference opponents, and over time.
